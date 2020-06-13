@@ -32227,7 +32227,7 @@ F.Zi.prototype={
 $1:function(a){this.a.push(F.aiY(u.f.a(a)))},
 $S:6}
 X.ZK.prototype={
-oc:function(){var t,s,r=B.axi("http://39.97.104.62/api",5000,P.e(["withCredentials",!0,"credentials",!0],u.N,u.z),3000),q=new U.UK(null,new L.FN(H.b([],u.tO),new L.w5(),new L.w5(),new L.w5()),null,new Q.UA(),!1)
+oc:function(){var t,s,r=B.axi("http://127.0.0.1:8000",5000,P.e(["withCredentials",!0,"credentials",!0],u.N,u.z),3000),q=new U.UK(null,new L.FN(H.b([],u.tO),new L.w5(),new L.w5(),new L.w5()),null,new Q.UA(),!1)
 q.bE$=r
 t=u.Aa
 q.d1$=new B.Dc(H.b([],t))
