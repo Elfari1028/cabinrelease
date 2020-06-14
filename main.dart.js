@@ -33797,7 +33797,7 @@ var $async$$0=P.v(function(a,b){if(a===1)return P.w(b,s)
 while(true)switch(t){case 0:q=r.a
 p=q.c.aR(u.I)
 t=2
-return P.A(p.ic("/request/maintenance",u.K),$async$$0)
+return P.A(p.ic("/support/maintenance",u.K),$async$$0)
 case 2:q.G(new K.a26())
 return P.x(null,s)}})
 return P.y($async$$0,s)},
